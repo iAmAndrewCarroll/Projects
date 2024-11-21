@@ -1,6 +1,6 @@
 # Cybersecurity Logging and Monitoring in AWS: Strengthening Cloud Security Operations
 
-As part of the **ValenTek Project**, I developed and implemented a comprehensive logging and monitoring solution within AWS to enhance cybersecurity defenses. This project utilized advanced cloud-native tools and methodologies to provide real-time visibility, automated threat detection, and compliance with security standards.
+As part of the [**ValenTek Project**](https://github.com/ValenTech401/401midterm/blob/main/README.md), I developed and implemented a comprehensive logging and monitoring solution within AWS to enhance cybersecurity defenses. This project utilized advanced cloud-native tools and methodologies to provide real-time visibility, automated threat detection, and compliance with security standards.
 
 ## High-Level Overview
 
