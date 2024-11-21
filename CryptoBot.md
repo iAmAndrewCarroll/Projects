@@ -1,6 +1,6 @@
 # Hot Bot 2.0: AI-Driven Cryptocurrency Analysis and Investment Recommendations
 
-The **Hot Bot 2.0** project was designed to provide real-time cryptocurrency analysis, trend tracking, and investment recommendations. Leveraging Python and AI technologies, the tool offered actionable insights for both novice and experienced cryptocurrency investors. This was a final project for Code Fellows' Advanced Software Development: Python Bootcamp, where the team, new to software development, tackled a conceptually simple yet technically challenging project that grew in complexity with every step forward.
+The [**Hot Bot 2.0**](https://github.com/Lambda-Destroyers/hot-bot2.0/tree/main/hotbot_project) project was designed to provide real-time cryptocurrency analysis, trend tracking, and investment recommendations. Leveraging Python and AI technologies, the tool offered actionable insights for both novice and experienced cryptocurrency investors. This was a final project for Code Fellows' Advanced Software Development: Python Bootcamp, where the team, new to software development, tackled a conceptually simple yet technically challenging project that grew in complexity with every step forward.
 
 ## High-Level Overview
 
